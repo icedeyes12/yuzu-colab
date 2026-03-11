@@ -1,0 +1,9 @@
+# Yuzu Memory Rebuild - Colab Version
+
+duckdb
+onnxruntime-gpu
+huggingface-hub
+psycopg2-binary
+rich
+transformers
+numpy
